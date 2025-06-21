@@ -2,4 +2,4 @@
 
 The course itself is not that hard, while the key is to formalize your expression and to know rules to obey in academic things.
 
-I took the course in Spring 2025, and this repository listed all courseware I used.
+I got A+ in this course in Spring 2025, and this repository listed all courseware I used.
