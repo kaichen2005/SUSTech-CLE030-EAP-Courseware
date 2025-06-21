@@ -1,0 +1,3 @@
+The following is the teacher's comment on my presentation.
+
+"His pronunciation was excellent, and he had lots of enthusiasm. He sounded like a true scholar, but he spoke too fast and presented too much information for the audience to process. I recommend more audience questions or pausing after key points. But once again, he was quite passionate and knowledgeable about the subject, like a leading authority on the subject."
